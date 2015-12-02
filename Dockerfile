@@ -1,5 +1,5 @@
 # Build (or rebuild) using
-# docker build -t="jeffdavisco/mongodb:latest" .
+# docker build -t="dockertutorial/mongodb:latest" .
 
 # Pull base image.
 FROM ubuntu:latest
