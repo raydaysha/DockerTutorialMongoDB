@@ -2,7 +2,7 @@
 
 echo `env`
 
-cd /local/git/docker-mongo
+cd /local/git/DockerTutorialMongoDB
 git pull
 
 # start mongo db
